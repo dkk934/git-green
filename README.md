@@ -1,7 +1,5 @@
 # Git-Green
 
-## Description
-
 This project automates the process of committing and pushing changes to a Git repository and includes a Bash script with a loading animation for running tasks like executing Node.js scripts. The functionality focuses on:
 
 1. Appending data to a file using Node.js (`app.js`).
